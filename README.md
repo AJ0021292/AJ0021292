@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, MLOPS, Data Engineering, Data Architecture
 - 🌱 I’m currently learning Data Engineering & Data Architecture
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, MLOPS, Data Engineering, Data Architecture
-- 📫 How to reach me on teams or thorugh email : sophanara.de-lopez@totalenergies.com
+- 📫 How to reach me on teams or through email : sophanara.de-lopez@totalenergies.com
 
 <!---
 AJ0021292/AJ0021292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
